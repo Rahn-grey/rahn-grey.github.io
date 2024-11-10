@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>测试文章</title>
+    <link href="/2024/11/10/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <url>/2024/11/10/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    
+    <content type="html"><![CDATA[<p>这是一个测试文本</p><p><img src="/home/rahn_grey/blog/rahn-blog/source/_posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/test.png" alt="图片引用方法三"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Java</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>原创</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2024/11/09/hello-world/"/>
     <url>/2024/11/09/hello-world/</url>
